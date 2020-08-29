@@ -12,6 +12,7 @@
 ## Table of Contents
 
 - [Getting started](#getting-started)
+- [Documentation](#documentation)
 
 ## Getting started
 
@@ -19,5 +20,8 @@ The best way to start a new project is by using feal-cli tool, to know more abou
 
 ```
 $ feal init my-project-name
+$ cd my-project-name
+$ npm run dev
 ```
 
+## Documentation
